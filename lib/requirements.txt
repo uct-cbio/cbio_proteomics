@@ -37,7 +37,7 @@ simplegeneric==0.8.1
 six==1.12.0
 statsmodels==0.9.0
 unattended-upgrades==0.1
-urllib3==1.25.3
+urllib3==1.26.5
 virtualenv==16.6.0
 wcwidth==0.1.7
 zipp==0.5.1
